@@ -1,4 +1,4 @@
-# Flask and create-react-app
+# Flask and `create-react-app`
 
 ## Requirements
 1. `npm install`
